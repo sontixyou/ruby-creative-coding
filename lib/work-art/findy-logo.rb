@@ -3,11 +3,12 @@ def setup
 end
 
 def draw
-  background(220, 255, 255)
   # color
   gray = color(165, 165, 164)
   white = color(255, 255, 255)
   blue = color(26, 90, 164)
+  background(white)
+  
   # config
   noStroke()
 
@@ -20,7 +21,6 @@ def draw
   arc(284, 115.5, 150, 90, radians(190), radians(260), PIE)
   fill(blue)
   arc(95, 270.5, 150, 90, radians(-60), radians(80), PIE)
-
 
   # くり抜き
   fill(white)
