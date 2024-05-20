@@ -8,8 +8,9 @@ def draw
   white = color(255, 255, 255)
   blue = color(26, 90, 164)
   background(white)
+  
   # config
-　　 noStroke()
+  noStroke()
 
   # 外周
   fill(gray)
