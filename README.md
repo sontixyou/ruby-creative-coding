@@ -18,3 +18,8 @@ Rubyを使って、クリエイティブコーディングできるリポジト�
 次のエディタ上で、自分が書いたクリエイティブコーディングのコードを貼り付けて、確認できます。
 
 https://p5rb.ongaeshi.me/editor/?q=CYUwZgBAziAuCuAHAUBCBjATiAhrEAwjgHYBuOUAFACwAMtANBHbQJTIjHDLKiTCYcAdx5oOXIA
+
+## TODO
+
+- [ ] 複数の作品を1ページに描画できるようにする
+- [ ] カテゴリごとにページを分割できるようにする
